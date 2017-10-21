@@ -53,7 +53,7 @@ p{
 
 .dropdown{
     width:50%;
-    margin-top:180px;
+    margin-top:160px;
     margin-bottom:160px;}
         
 .dropdown :hover{cursor:pointer}
@@ -71,7 +71,7 @@ p{
                 font-size:10px;
                 background-color:white;
                 padding:13px;
-                height:160px;
+                height:140px;
                 font-weight: 100;
                 color:gray;
 				overflow-y:scroll;
